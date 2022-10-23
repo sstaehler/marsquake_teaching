@@ -1,0 +1,6 @@
+name: marsquake_teaching
+channels: 
+    - conda-forge
+dependencies:
+    - obspy
+    - ipympl
